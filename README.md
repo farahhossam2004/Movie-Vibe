@@ -3,6 +3,10 @@
 
 Welcome to the **Movie App** repository! 🍿 This app is designed to provide an immersive and user-friendly experience for movie enthusiasts. Below, you'll find an overview of the features and functionalities included in this application.
 
+## 📽️ Presentation & Demo
+- **📄 Presentation:** [View Here](https://drive.google.com/file/d/1V0g457LdMX4ueXFyHU-GCygEWMyBx5I8/view?usp=sharing)
+- **📹 Demo Video:** [Watch Here](https://drive.google.com/file/d/1TchnUDVpqYnl0eC6pqn7QJ0AgoMCZfgq/view?usp=drive_link)
+
 ## 🚀 Features
 
 ### 1. **Splash Screen** 🎉
@@ -47,7 +51,8 @@ Welcome to the **Movie App** repository! 🍿 This app is designed to provide an
 ---
 ## 📧 Contact
 For any questions or feedback, please reach out to:
- - Farah Hossam
- - Email: farahhossam@gmail.com
+ - **Farah Hossam**
+ - **Email:** [farahhossam@gmail.com](mailto:farahhossam@gmail.com)
+
 ---
 **Enjoy exploring the world of movies with this app!** 🎬🍿
