@@ -52,7 +52,7 @@ Welcome to the **Movie App** repository! 🍿 This app is designed to provide an
 ## 📧 Contact
 For any questions or feedback, please reach out to:
  - **Farah Hossam**
- - **Email:** [farahhossam@gmail.com](mailto:farahhossam@gmail.com)
+ - **Email:** [farah.alden2004@gmail.com](mailto:farah.alden2004@gmail.com)
 
 ---
 **Enjoy exploring the world of movies with this app!** 🎬🍿
